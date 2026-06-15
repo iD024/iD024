@@ -91,11 +91,9 @@ Projects will be added as they reach a level suitable for public release.
 
 ## GitHub Stats
 
-Replace `iD024` with your GitHub username.
+![](https://github-readme-stats.vercel.app/api?username=iD024&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iD024&layout=compact)
 
 ## Connect
 
