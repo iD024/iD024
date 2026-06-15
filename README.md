@@ -1,6 +1,6 @@
-# Laksh
+# Hi, I am Laksh
 
-Mechatronics student building intelligent systems across AI, Robotics, Embedded Systems, Engineering Simulation, CAD Design, and Software Engineering.
+A Mechatronics student building intelligent systems across AI, Robotics, Embedded Systems, Engineering Simulation, CAD Design, and Software Engineering.
 
 ## About Me
 
