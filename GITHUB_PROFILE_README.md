@@ -1,4 +1,4 @@
-# Laksh Singh
+# Laksh
 
 Mechatronics student building intelligent systems across AI, Robotics, Embedded Systems, Engineering Simulation, CAD Design, and Software Engineering.
 
@@ -91,7 +91,7 @@ Projects will be added as they reach a level suitable for public release.
 
 ## GitHub Stats
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `iD024` with your GitHub username.
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
