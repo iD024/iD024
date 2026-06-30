@@ -87,7 +87,9 @@ A Mechatronics student building intelligent systems across AI, Robotics, Embedde
 
 ## Featured Projects
 
-Projects will be added as they reach a level suitable for public release.
+https://www.pranshushop.com/ -- Fully working e-commerce App using NEXTJS and Supabase
+
+More Projects will be added as they reach a level suitable for public release.
 
 ## GitHub Stats
 
