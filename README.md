@@ -87,7 +87,9 @@ A Mechatronics student building intelligent systems across AI, Robotics, Embedde
 
 ## Featured Projects
 
-https://www.pranshushop.com/ -- Fully working e-commerce App using NEXTJS and Supabase
+[Agentic-Engineering-Mentor](https://github.com/iD024/Antigravity-Engineering-Mentor)
+
+[Pranshu Shop](https://www.pranshushop.com/) -- Fully working e-commerce App using NEXTJS and Supabase
 
 More Projects will be added as they reach a level suitable for public release.
 
