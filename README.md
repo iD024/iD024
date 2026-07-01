@@ -87,7 +87,7 @@ A Mechatronics student building intelligent systems across AI, Robotics, Embedde
 
 ## Featured Projects
 
-[Agentic-Engineering-Mentor](https://github.com/iD024/Antigravity-Engineering-Mentor)
+[Agentic-Engineering-Mentor](https://github.com/iD024/Antigravity-Engineering-Mentor) -- An Agentic Skill which helps users build projects by their own hands instead of copy-paste
 
 [Pranshu Shop](https://www.pranshushop.com/) -- Fully working e-commerce App using NEXTJS and Supabase
 
